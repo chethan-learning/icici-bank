@@ -1,6 +1,4 @@
 Hello,
 
-
-This file contains master code
-This file consist of development code.
-
+This file contains deployment logic	
+Updating this line for stash demo...
